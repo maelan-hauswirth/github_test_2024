@@ -1,0 +1,22 @@
+---
+title: "coding_exercise_10-7-24"
+author: "Maelan Hauswirth"
+date: "2024-10-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+source("setup_R.R")
+```
+
+
+```{r}
+
+```
+
+
