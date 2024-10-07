@@ -11,12 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r}
-source("setup_R.R")
+source("setup.R")
 ```
 
-
+Load in data
 ```{r}
-
+data("knz_bison")
 ```
 
 
